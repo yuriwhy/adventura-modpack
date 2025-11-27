@@ -3,6 +3,9 @@
 
 <sup>*(by YYuri)*</sup>
 
+
+**[Check the list of mods included in the modpack here.](https://rentry.co/adventura-mca-modlist)**
+
 **Requirements:**
 - Minecraft 1.21.1
 - Fabric 0.18.1 or later
